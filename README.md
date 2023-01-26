@@ -15,7 +15,8 @@
 7. Select the p2.ipynb file to open it and run using the buttons on the header
 
 ## Team404
-| Name | Student ID | Github Username |
+| Name | Github Username |
 |---|---|---|
-| Lisa Duong (Leader) | 40097705 | [lisa7012](https://github.com/lisa7012) |
-| Deokyeong Kim | 26942105 | [Happyduck93](https://github.com/Happyduck93) |
+| Deokyeong Kim | [Happyduck93](https://github.com/Happyduck93) |
+| Lisa Duong | [lisa7012](https://github.com/lisa7012) |
+
