@@ -17,6 +17,6 @@
 ## Team404
 | Name | Github Username |
 |---|---|
-| Deokyeong Kim | [Happyduck93](https://github.com/Happyduck93) |
 | Lisa Duong | [lisa7012](https://github.com/lisa7012) |
+| Deokyeong Kim | [Happyduck93](https://github.com/Happyduck93) |
 
