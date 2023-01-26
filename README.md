@@ -1,4 +1,4 @@
-### GitHub Repository URL: https://github.com/lisa7012/Comp472-MiniProject_2
+### GitHub Repository URL: https://github.com/Happyduck93/Comp472-MiniProject_2
 
 ## Comp 472 Mini Project 2
 #### Instructions to run program:
